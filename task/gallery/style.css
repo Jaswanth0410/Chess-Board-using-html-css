@@ -1,0 +1,10 @@
+.row1{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+img{
+    width:300px;
+    height: 300px;
+}
